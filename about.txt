@@ -1,0 +1,2 @@
+This is a git project.
+we are learning Git and Github.
